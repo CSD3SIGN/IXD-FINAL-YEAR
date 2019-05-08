@@ -5,7 +5,7 @@ All Final Year Links
 
 [Major Project Prototype](https://invis.io/N4RSAC2XYC2)
 
-[Supporting Research]()
+[Supporting Research](https://www.tumblr.com/blog/csd3sign/ixd503)
 
 [Launch Strategy]()
 
