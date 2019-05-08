@@ -7,7 +7,7 @@ All Final Year Links
 
 [Supporting Research](https://www.tumblr.com/blog/csd3sign/ixd503)
 
-[Launch Strategy]()
+[Launch Strategy](https://github.com/CSD3SIGN/IXD-FINAL-YEAR/blob/master/stewart_craig_launch_strategy.pdf)
 
 
 ## IXD504
