@@ -14,6 +14,6 @@ All Final Year Links
 
 [Viva Presentation](https://github.com/CSD3SIGN/IXD-FINAL-YEAR/blob/master/stewart_craig_viva_presentation.pdf)
 
-[Colophon]()
+[Colophon](https://github.com/CSD3SIGN/IXD-FINAL-YEAR/blob/master/ColophonFINALpdf.pdf)
 
 Degree Show
